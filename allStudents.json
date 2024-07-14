@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "fname": "meto",
+        "lname": "hady",
+        "city": "mansoura",
+        "age": 42
+    },
+    {
+        "id": 2,
+        "fname": "zaki",
+        "lname": "abbas",
+        "city": "cairo",
+        "age": 38
+    },
+    {
+        "id": 3,
+        "fname": "said",
+        "lname": "hegazy",
+        "city": "Tanta",
+        "age": 35
+    }
+]
